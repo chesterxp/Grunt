@@ -1,0 +1,12 @@
+/*CSS nr 1*/
+body{
+  background: linear-gradient(280deg,#ddd,rgba(195, 127, 127, 0.24));
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+/*CSS nr 2*/
+body{
+  background: linear-gradient(280deg,#ddd,rgba(195, 127, 127, 0.24));
+}

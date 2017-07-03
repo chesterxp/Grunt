@@ -1,0 +1,21 @@
+/*CSS nr 1*/
+body{
+  background: linear-gradient(280deg,#ddd,rgba(195, 127, 127, 0.24));
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+.box2{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  color: blue;
+}
