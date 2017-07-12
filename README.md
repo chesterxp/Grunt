@@ -1,2 +1,0 @@
-# Grunt
-Szkolenie z Grunta

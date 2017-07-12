@@ -1,4 +1,3 @@
-
-console.log('to jest plik nr 1');
-console.log('to jest plik nr 1 - dodanie podczas watcha');
-console.log('to jest plik nr 1 - dodanie podczas watcha nr 2');
+console.log('main1aaaaaaa.js');
+console.log('main1.js');
+console.log('main1aaaaaaaa.js');
